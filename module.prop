@@ -1,0 +1,6 @@
+id=bootracer
+name=bootracer
+version=1.0
+versionCode=1
+author=Antonio Rabelo Morais, Jorge
+description=autoturnoff if bootloop detected
